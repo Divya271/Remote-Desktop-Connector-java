@@ -22,7 +22,7 @@
  
  > Enter Server IP address in prompt box and submit
  
- > Enter Server password in prompt box
+ > Enter Server password in prompt box and submit
  
  > Connection will be established
 
